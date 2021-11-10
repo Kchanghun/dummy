@@ -5,4 +5,4 @@ a
 asdflj
 b
 alsdkfjasdlkfj
-new
+go test

@@ -6,4 +6,4 @@ asdflj
 b
 alsdkfjasdlkfj
 new
-OK
+go test

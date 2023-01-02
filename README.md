@@ -7,6 +7,5 @@ b
 alsdkfjasdlkfj
 new
 go test
-asdf
-asdf
+asdf  
 test
